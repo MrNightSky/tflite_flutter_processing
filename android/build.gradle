@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "com.MrNightSky.tflite_flutter_processing"
+    namespace "com.chaosdev.tflite_flutter_processing"
     compileSdkVersion 30
 
     sourceSets {
